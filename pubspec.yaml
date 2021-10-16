@@ -1,0 +1,83 @@
+name: ec_task
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0-178.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.2
+
+  #decoupling & streaming
+  flutter_bloc: ^7.0.0
+  rxdart: ^0.26.0
+
+  #storage
+  get_storage: ^2.0.2
+
+  #networking
+  http: ^0.13.1
+  dio: ^4.0.0
+
+  #ui
+  loading_overlay: ^0.3.0
+  flutter_screenutil: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^1.0.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
